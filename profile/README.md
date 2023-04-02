@@ -19,6 +19,9 @@ Runtime-Compiled C++ is a cross platform way to reliably make major changes to y
 #### Articles and Tutorials
   * [Runtime Compiled C++ Dear ImGui and DirectX11 Tutorial](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial)  
   * [Speeding up Runtime Compiled C++ compile times in MSVC with d2cgsummary](https://www.enkisoftware.com/devlogpost-20171031-1-Speeding-up-Runtime-Compiled-C++-compile-times-in-MSVC-with-d2cgsummary)
+  * [Blog - Runtime-Compiled C++](https://runtimecompiledcplusplus.blogspot.com)
+  * [Video - Rapid Development with Runtime Compiled C++](https://vimeo.com/85934969) with [transcript and slides](https://runtimecompiledcplusplus.blogspot.com/p/rapid-development-with-rcc-talk.html)
+  * [Podcast - CppCast interviews Doug Binks about Runtime Compiled C++](https://cppcast.com/doug-binks/)
 
 ### enkiTS - Lightweight Task Scheduler
 A permissively licensed lightweight C and C++ Task Scheduler for creating parallel programs.  
@@ -53,13 +56,13 @@ C and C++ headers, C# and Python classes and Go package for icon fonts Font Awes
 ### Voxel Models
 Free voxel models you can use in Avoyd Voxel Editor: make voxel art, export to 3D mesh etc. All downloadable assets are licensed under CC BY 4.0.  
 #### Repository
-  * [voxel-models](https://github.com/enkisoftware/voxel-models) - Downloadable Models 
+  * [voxel-models](https://github.com/enkisoftware/voxel-models) - Downloadable 3D voxel models and links to resources
 
 ### GLFW community support
-We provides support on the [GLFW forum](https://discourse.glfw.org/).  
+We provide support on the [GLFW forum](https://discourse.glfw.org/).  
 [www.glfw.org](https://www.glfw.org)  
 
-## Articles and tutorials
+## Articles and Tutorials
 ### Graphics Programming
   * [Normal generation in the pixel shader](https://www.enkisoftware.com/devlogpost-20150131-1-Normal-generation-in-the-pixel-shader)
   * [Lighting voxel octrees and procedural texturing](https://www.enkisoftware.com/devlogpost-20141022-1-Lighting-voxel-octrees-and-procedural-texturing)
