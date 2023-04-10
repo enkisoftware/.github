@@ -49,7 +49,7 @@ Markdown for Dear ImGui.
   * [imgui_markdown](https://github.com/juliettef/imgui_markdown) - Source code
 
 ### IconFontCppHeaders
-C and C++ headers, C# and Python classes and Go package for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons, Fontaudio and Codicons.  
+C and C++ headers, C# and Python classes, Rust files and Go package for icon fonts Font Awesome, Fork Awesome, Google Material Design icons, Kenney game icons, Fontaudio and Codicons.  
 #### Repository
   * [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - Source code
 
