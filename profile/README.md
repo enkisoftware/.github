@@ -64,6 +64,7 @@ We provide support on the [GLFW forum](https://discourse.glfw.org/).
 
 ## Articles and Tutorials
 ### Graphics Programming
+  * [Implementing a GPU Voxel Octree Path Tracer](https://www.enkisoftware.com/devlogpost-20230823-1-Implementing-a-GPU-Voxel-Octree-Path-Tracer)
   * [Normal generation in the pixel shader](https://www.enkisoftware.com/devlogpost-20150131-1-Normal-generation-in-the-pixel-shader)
   * [Lighting voxel octrees and procedural texturing](https://www.enkisoftware.com/devlogpost-20141022-1-Lighting-voxel-octrees-and-procedural-texturing)
 ### Network Programming
