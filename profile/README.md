@@ -19,7 +19,7 @@ Runtime-Compiled C++ is a cross platform way to reliably make major changes to y
   * [RCCpp-DearImGui-GLFW-example](https://github.com/juliettef/RCCpp-DearImGui-GLFW-example) - Example.  
   * [Runtime Compiled C++ Dear ImGui and DirectX11 Tutorial](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial) - Tutorial.  
   * [Speeding up Runtime Compiled C++ compile times in MSVC with d2cgsummary](https://www.enkisoftware.com/devlogpost-20171031-1-Speeding-up-Runtime-Compiled-C++-compile-times-in-MSVC-with-d2cgsummary) - Article.  
-  * [Rapid Development with Runtime Compiled C++](https://youtu.be/hYib2YIZG24) - Conference Talk ([transcript and slides](https://www.enkisoftware.com/devlogpost-20240528-1-Rapid-Development-with-Runtime-Compiled-C++-Talk)).  
+  * [Rapid Development with Runtime Compiled C++]([https://youtu.be/hYib2YIZG24](https://www.enkisoftware.com/devlogpost-20240528-1-Rapid-Development-with-Runtime-Compiled-C++-Talk) - Talk.  
   * [CppCast: Doug Binks on Runtime Compiled C++](https://cppcast.com/doug-binks/) - Interview.    
   * [Runtime-Compiled C++](https://www.enkisoftware.com/devlog-rcc++) - Blog.  
 
