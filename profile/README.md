@@ -1,7 +1,9 @@
 ## About Enkisoftware
 [www.enkisoftware.com](https://www.enkisoftware.com)  
-We are [@dougbinks](https://github.com/dougbinks) and [@juliettef](https://github.com/juliettef). We are independent games developers and consultants specialising in computer games, information technology and software testing. 
-We develop our voxel editor and game [Avoyd](https://www.avoyd.com) whilst providing contract services to the games industry.  
+
+We are [@dougbinks](https://github.com/dougbinks) and [@juliettef](https://github.com/juliettef). We are independent game developers and consultants specialising in game engines, computer graphics, voxel technology and software testing.  
+
+We develop [Avoyd](https://www.avoyd.com), our voxel editor, renderer and game whilst providing contract services to the games industry. In the process we create and maintain open source software for game developers.
 
 ## Open Source Projects
 In the process of developping Avoyd we create and maintain the following open source software for game developers.  
@@ -17,9 +19,9 @@ Runtime-Compiled C++ is a cross platform way to reliably make major changes to y
   * [RCCpp-DearImGui-GLFW-example](https://github.com/juliettef/RCCpp-DearImGui-GLFW-example) - Example.  
   * [Runtime Compiled C++ Dear ImGui and DirectX11 Tutorial](https://www.enkisoftware.com/devlogpost-20200202-1-Runtime-Compiled-C++-Dear-ImGui-and-DirectX11-Tutorial) - Tutorial.  
   * [Speeding up Runtime Compiled C++ compile times in MSVC with d2cgsummary](https://www.enkisoftware.com/devlogpost-20171031-1-Speeding-up-Runtime-Compiled-C++-compile-times-in-MSVC-with-d2cgsummary) - Article.  
-  * [Rapid Development with Runtime Compiled C++](https://vimeo.com/85934969) - Conference Talk ([transcript and slides](https://runtimecompiledcplusplus.blogspot.com/p/rapid-development-with-rcc-talk.html)).  
+  * [Rapid Development with Runtime Compiled C++](https://youtu.be/hYib2YIZG24) - Conference Talk ([transcript and slides](https://www.enkisoftware.com/devlogpost-20240528-1-Rapid-Development-with-Runtime-Compiled-C++-Talk)).  
   * [CppCast: Doug Binks on Runtime Compiled C++](https://cppcast.com/doug-binks/) - Interview.    
-  * [Runtime-Compiled C++](https://runtimecompiledcplusplus.blogspot.com) - Blog.  
+  * [Runtime-Compiled C++](https://www.enkisoftware.com/devlog-rcc++) - Blog.  
 
 ### enkiTS - Lightweight Task Scheduler
 A permissively licensed lightweight C and C++ Task Scheduler for creating parallel programs.  
