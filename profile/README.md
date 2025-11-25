@@ -8,9 +8,21 @@ We develop [Avoyd](https://www.avoyd.com), our voxel editor, renderer and game w
 ## Open Source Projects
 In the process of developping Avoyd we create and maintain the following open source software for game developers.  
 
-You can support our OSS development effort through [GitHub Sponsors](https://github.com/sponsors/dougbinks) or [Patreon](https://www.patreon.com/enkisoftware).  
+You can support our work through [GitHub Sponsors](https://github.com/sponsors/dougbinks) or [Patreon](https://www.patreon.com/enkisoftware).  
 
-[<img src="https://img.shields.io/static/v1?logo=github&label=Github&message=Sponsor&color=#ea4aaa" width="200"/>](https://github.com/sponsors/dougbinks)    [<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"/>](https://www.patreon.com/enkisoftware)  
+### enkiTS - Lightweight Task Scheduler
+A permissively licensed lightweight C and C++ Task Scheduler for creating parallel programs.  
+  * [enkiTS](https://github.com/dougbinks/enkiTS) - Source code.  
+  * [enkiTSExamples](https://github.com/dougbinks/enkiTSExamples) - Examples.  
+  * [Implementing a lightweight task scheduler](https://www.enkisoftware.com/devlogpost-20150822-1-Implementing-a-lightweight-task-scheduler) - Article.  
+  * [Internals of a lightweight task scheduler](https://www.enkisoftware.com/devlogpost-20150905-1-Internals-of-a-lightweight-task-scheduler) - Article.
+
+### GLFW
+GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+
+[@dougbinks](https://github.com/dougbinks) is a maintainer of GLFW and provides support on the [GLFW forum](https://discourse.glfw.org/).
+  * [GLFW](https://github.com/glfw/glfw)
+  * [www.glfw.org](https://www.glfw.org)
 
 ### RCC++ - Runtime Compiled C++
 Runtime-Compiled C++ is a cross platform way to reliably make major changes to your C++ code at runtime and see the results immediately. It's aimed at games development but can be useful in any industry where turnaround times are a bottleneck.  
@@ -22,13 +34,6 @@ Runtime-Compiled C++ is a cross platform way to reliably make major changes to y
   * [Rapid Development with Runtime Compiled C++](https://www.enkisoftware.com/devlogpost-20240528-1-Rapid-Development-with-Runtime-Compiled-C++-Talk) - Talk.  
   * [CppCast: Doug Binks on Runtime Compiled C++](https://cppcast.com/doug-binks/) - Interview.    
   * [Runtime-Compiled C++](https://www.enkisoftware.com/devlog-rcc++) - Blog.  
-
-### enkiTS - Lightweight Task Scheduler
-A permissively licensed lightweight C and C++ Task Scheduler for creating parallel programs.  
-  * [enkiTS](https://github.com/dougbinks/enkiTS) - Source code.  
-  * [enkiTSExamples](https://github.com/dougbinks/enkiTSExamples) - Examples.  
-  * [Implementing a lightweight task scheduler](https://www.enkisoftware.com/devlogpost-20150822-1-Implementing-a-lightweight-task-scheduler) - Article.  
-  * [Internals of a lightweight task scheduler](https://www.enkisoftware.com/devlogpost-20150905-1-Internals-of-a-lightweight-task-scheduler) - Article.  
 
 ### enkiMI - Minecraft Importer
 A permissively licensed lightweight C and C++ Minecraft Importer library.  
@@ -50,10 +55,6 @@ C and C++ headers, C# and Python classes, Rust files and Go package for icon fon
 ### Voxel Models
 Free voxel models and resources suitable for use in Avoyd Voxel Editor. All downloadable assets are licensed under CC BY 4.0.  
   * [voxel-models](https://github.com/enkisoftware/voxel-models) - Downloads and links.  
-
-### GLFW community support
-We provide support on the [GLFW forum](https://discourse.glfw.org/).  
-[www.glfw.org](https://www.glfw.org)  
 
 ## Articles and Tutorials
 
