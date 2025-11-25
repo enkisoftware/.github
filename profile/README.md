@@ -21,8 +21,9 @@ A permissively licensed lightweight C and C++ Task Scheduler for creating parall
 GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
 
 [@dougbinks](https://github.com/dougbinks) is a maintainer of GLFW and provides support on the [GLFW forum](https://discourse.glfw.org/).
-  * [GLFW](https://github.com/glfw/glfw)
-  * [www.glfw.org](https://www.glfw.org)
+  * [GLFW](https://github.com/glfw/glfw) - Source code.
+  * [www.glfw.org](https://www.glfw.org) - Website and documentation.
+  * [GLFW-CMake-starter](https://github.com/enkisoftware/GLFW-CMake-starter) - CMake starter/example project for GLFW.
 
 ### RCC++ - Runtime Compiled C++
 Runtime-Compiled C++ is a cross platform way to reliably make major changes to your C++ code at runtime and see the results immediately. It's aimed at games development but can be useful in any industry where turnaround times are a bottleneck.  
